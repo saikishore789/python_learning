@@ -2,4 +2,11 @@
 # creating sample python scripts 
 
 What is Python used for?
-Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. Since it’s relatively easy to learn, Python has been adopted by many non-programmers, such as accountants and scientists, for a variety of everyday tasks, like organising finances.
+Python is a computer programming language often used to build websites and software, automate tasks, and analyze data. Python is a general-purpose language, not specialized for any specific problems, and used to create various programmes
+
+it includes
+Data analysis and machine learning
+Web development
+Automation or scripting
+Software testing and prototyping
+Everyday tasks
