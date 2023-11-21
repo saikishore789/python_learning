@@ -2,3 +2,4 @@ tools = { 'CI' : ['jenkins', 'gitlab', 'bamboo'], 'containerzation' : ['podman',
 
 for tool, name in tools.items():
     print(tool, ':', name)
+
