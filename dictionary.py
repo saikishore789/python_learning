@@ -6,3 +6,5 @@ details = response.json()
 
 for i in range(len(details)):
     print(details[i]["user"]["login"])
+
+print(range(len(details)))
