@@ -4,7 +4,7 @@ import json
 
 url = "https://saikishorereddy.atlassian.net/rest/api/3/issue"
 
-API_TOKEN="ATATT3xFfGF0SkdzrnMml6gEeFo0fDXF6lngH2MyjwCTEQTCwkXavDw4fSSY-HhR6tIXVpc9zW3LK5kY8XsipSMB82AzgWo-oqcWGmxwZjaQ412Z_Ix4crzhxyip5l6A37ro2_5sEW5ZyaeZqojw4wA4VKpHtmlr6zLN0FUhIg5o-NXJbqZZpak=6010CC80"
+API_TOKEN="ATATT3xFfGF0cNhLHOHhMdKg4XIrrTsIY7TrUrsG0FEV6iKqfW3RsVzeQhwfCYNZJ9_j9VnXQuCG__HUpkMWU-ArUF8snnBZtpC8XcblERxHr2l6Irwu6M8nWtXdzm9oVTIHwHvQK17VTV0e0Qu-Q0rOGMHZSh0brobmrM6pg3CeMUVpfpt_BA4=8F34E289"
 
 auth = HTTPBasicAuth("rachumallasaikishore@gmail.com", API_TOKEN)
 
